@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="eventID" type="id" />
+    <item name="nameEvent" type="id" />
+    <item name="strDate" type="id" />
+    <item name="scoreHome" type="id" />
+    <item name="scoreAway" type="id" />
+    <item name="listTeam" type="id" />
+    <item name="list_next" type="id" />
+    <item name="list_event" type="id" />
+    <item name="swipe" type="id" />
+    <item name="match_tablayout" type="id" />
+    <item name="match_layout" type="id" />
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="spinner" type="id" />
+    <item name="mylist" type="id" />
+    <item name="playerImage" type="id" />
+    <item name="namePlayer" type="id" />
+    <item name="positionPlayer" type="id" />
+    <item name="listPlayer" type="id" />
+    <item name="add_to_alarm" type="id" />
+    <item name="list_match" type="id" />
+    <item name="spinner_match" type="id" />
+    <item name="spinner_next" type="id" />
+    <item name="search_match" type="id" />
+    <item name="mylist_search_team" type="id" />
+    <item name="mylist_search_match" type="id" />
+    <item name="cardView_match" type="id" />
+    <item name="search_team" type="id" />
+    <item name="search_team_f" type="id" />
+    <item name="mylist_team" type="id" />
+    <item name="list_event_favorit" type="id" />
+    <item name="list_team_favorit" type="id" />
+</resources>
